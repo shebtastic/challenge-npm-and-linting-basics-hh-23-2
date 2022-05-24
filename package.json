@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/neuefische/api-powered-app-simple-template/issues"
   },
-  "homepage": "https://github.com/neuefische/api-powered-app-simple-template#readme"
+  "homepage": "https://github.com/neuefische/api-powered-app-simple-template#readme",
+  "devDependencies": {
+    "htmlhint": "^1.1.4"
+  }
 }
