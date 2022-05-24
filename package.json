@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/neuefische/api-powered-app-simple-template#readme",
   "devDependencies": {
-    "htmlhint": "^1.1.4"
+    "htmlhint": "^1.1.4",
+    "prettier": "^2.6.2"
   }
 }
