@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "htmlhint": "npx htmlhint \"**/*.html\"",
     "prettier:check": "npx prettier --check .",
-    "prettier:write": "npx prettier --write ."
+    "prettier:write": "npx prettier --write .",
+    "stylelint": "npx stylelint \"**/*.css\""
   },
   "repository": {
     "type": "git",
