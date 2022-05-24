@@ -22,6 +22,9 @@
   "homepage": "https://github.com/neuefische/api-powered-app-simple-template#readme",
   "devDependencies": {
     "htmlhint": "^1.1.4",
-    "prettier": "^2.6.2"
+    "prettier": "^2.6.2",
+    "stylelint": "^14.8.3",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0"
   }
 }
