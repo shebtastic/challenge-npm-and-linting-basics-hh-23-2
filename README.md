@@ -11,7 +11,7 @@ This repository is a simple template for the web development students. It is a b
 
 Together as a group choose one of the following APIs to work with:
 
-1. [Pokemon API](https://pokeapi.co\)
+1. [Pokemon API](https://pokeapi.co)
 2. [Harry Potter API](https://hp-api.herokuapp.com/)
 3. [Rick & Morty API](https://rickandmortyapi.com/)
 
