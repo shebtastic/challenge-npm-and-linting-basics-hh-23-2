@@ -6,13 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>API Powered App</title>
     <link rel="stylesheet" href="css/styles.css" />
-    <script type="module" defer src="index.js"></script>
+    <script defer src="index.js"></script>
   </head>
   <body>
     <h1>Let's work with an API!</h1>
+    <p>Three APIs are available for you to choose from:</p>
     <ul>
-      <li></li>
-      <li></li>
+      <li data-js="api">
+        <button data-js="button">The RESTful Pokémon API</button>
+        <a data-js="link" class="hidden" href="https://pokeapi.co/"
+          >go to API website</a
+        >
+      </li>
+
+      <li data-js="api">
+        <button data-js="button">Studio Ghibli API</button>
+        <img src="" alt="" />
+        <a data-js="link" class="hidden" href="https://ghibliapi.herokuapp.com/"
+          >go to API website</a
+        >
+      </li>
+      <li data-js="api">
+        <button data-js="button">The Rick and Morty API</button>
+        <a data-js="link" class="hidden" href="https://rickandmortyapi.com/"
+          >go to API website</a
+        >
+      </li>
     </ul>
   </body>
 </html>
