@@ -7,6 +7,8 @@
     "tag-pair": true,
     "spec-char-escape": true,
     "id-unique": true,
+    "input-requires-label": true,
+    "inline-style-disabled": true,
     "src-not-empty": true,
     "attr-no-duplication": true,
     "title-require": true,
