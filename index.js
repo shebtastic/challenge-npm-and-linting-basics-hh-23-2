@@ -1,9 +1,3 @@
-const apis = document.querySelectorAll('[data-js=api]');
+import toggleApiButton from './js/_apibutton.js';
 
-apis.forEach(api => {
-  const button = api.querySelector('[data-js="button"]');
-  const link = api.querySelector('[data-js="link"]');
-  button.addEventListener('click', () => {
-    link.classList.toggle('hidden');
-  });
-});
+toggleApiButton();
