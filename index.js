@@ -1,3 +1,1 @@
-import toggleApiButton from './js/_apibutton.js';
-
-toggleApiButton();
+import toggleButton from './js/toggle.js';
