@@ -1,24 +1,18 @@
-# API powered app
+# Template to practice reading error messages of linters
 
 This repository is a simple template for the web development students. It is a basic HTML/CSS/JavaScript template without a bundler.
 
 ## How to setup?
 
+- Turn this template into your perosnal repo
 - Clone this repository
 - Run: `npm install`
 
 ## Exercise
 
-Together as a group choose one of the following APIs to work with:
+The buttons in the list items don't seem to be working. Follow the instructions which are printed by the linters and fix all the issues. The goal is to make the buttons toggle again.
 
-1. [Pokemon API](https://pokeapi.co)
-2. [Studio Ghibli API](https://ghibliapi.herokuapp.com/)
-3. [Rick & Morty API](https://rickandmortyapi.com/)
+- Use `npm run test` to see which errors are found in the code.
+- Use `npm run fix` to find errors and format your code
 
-The goal of this exercise is to work in a **group** and build a simple app which uses data from an API.
-
-As a group please consider [mob-programming](https://en.wikipedia.org/wiki/Mob_programming). Some rules to follow:
-
-- Change the driver (person who codes) every 20-30 minutes
-- Each team member should code at some point
-- Be respectful, kind and considerate to other team members
+Inspect the package.json to see more commands to run the linters individually.
