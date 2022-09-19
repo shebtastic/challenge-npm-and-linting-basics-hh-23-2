@@ -4,7 +4,7 @@ This repository is a simple template for the web development students. It is a b
 
 ## How to setup?
 
-- Turn this template into your perosnal repo
+- Turn this template into your personal repo
 - Clone this repository
 - Run: `npm install`
 
