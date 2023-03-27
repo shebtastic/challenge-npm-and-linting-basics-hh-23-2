@@ -5,6 +5,7 @@
     "attr-value-double-quotes": true,
     "doctype-first": true,
     "tag-pair": true,
+    "tags-check": true,
     "spec-char-escape": true,
     "id-unique": true,
     "input-requires-label": true,
